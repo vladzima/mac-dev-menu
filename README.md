@@ -1,10 +1,10 @@
 ## Dev Servers for SwiftBar
 
-In case you always forget which Node/bun/etc dev servers you have fired up on your machine and after a week discover localhost:xxxx is running something (like i do).
+In case you always forget which Node/bun/etc dev servers you have fired up on your MacOS machine and after a week discover localhost:xxxx is running something (like i do).
 
 ![](https://github.com/vladzima/mac-dev-menu/blob/main/preview.png?raw=true)
 
-A SwiftBar plugin that shows your running local dev servers (React/Next/Vite, etc.) in the macOS menu bar: ports + project name, with quick actions.
+A [SwiftBar](https://github.com/swiftbar/SwiftBar) (it's free) plugin that shows your running local dev servers (React/Next/Vite, etc.) in the macOS menu bar: ports + project name, with quick actions.
 
 #### What you’ll see
 
