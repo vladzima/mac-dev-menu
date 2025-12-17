@@ -2,7 +2,7 @@
 set -euo pipefail
 
 PLUGIN_DIR="${1:-${SWIFTBAR_PLUGIN_DIR:-$HOME/SwiftBar}}"
-PLUGIN_NAME="dev-servers.5s.sh"
+PLUGIN_NAME="dev-servers.10s.sh"
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 if ! command -v brew >/dev/null 2>&1; then
